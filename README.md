@@ -1,4 +1,4 @@
-# NovellaStory_Bot
+# NovellaStory_Bot # 
 
 Бот написан на стажировке в IMPrpjects - YOGURT.studio
 Начало работы: 11 июля 2024. 
